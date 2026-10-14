@@ -1,0 +1,2 @@
+pydantic==2.7.4
+acme-contracts @ git+https://github.com/chetanagrawal721/faultline-fixture-acme-contracts@main
